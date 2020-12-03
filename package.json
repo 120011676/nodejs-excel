@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-excel",
+  "version": "1.0.0",
+  "description": "nodejs excel",
+  "main": "index.js",
+  "repository": "https://github.com/120011676/nodejs-excel",
+  "author": "Say.li 120011676@qq.com",
+  "license": "MIT",
+  "private": false
+}
